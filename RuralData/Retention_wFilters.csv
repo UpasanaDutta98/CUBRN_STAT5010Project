@@ -1,0 +1,481 @@
+GENDER,BIPOCFmt,FGFmt,PellFmt,Group2,EYEAR,N,FallSemester,RetentionPercent
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,3,Ret2nd,100.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,3,Ret3rd,100.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,3,Ret4th,100.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,3,Ret2nd,100.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,3,Ret3rd,100.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,3,Ret4th,100.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,4,Ret2nd,100.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,4,Ret3rd,100.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,4,Ret4th,100.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,4,Ret2nd,75.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,4,Ret3rd,75.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,4,Ret4th,75.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2018,3,Ret2nd,100.0
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2018,3,Ret3rd,66.6666667
+F,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2019,9,Ret2nd,88.8888889
+F,BIPOC,First gen,Not Pell,2. Other,2014,58,Ret2nd,77.5862069
+F,BIPOC,First gen,Not Pell,2. Other,2014,58,Ret3rd,67.2413793
+F,BIPOC,First gen,Not Pell,2. Other,2014,58,Ret4th,65.5172414
+F,BIPOC,First gen,Not Pell,2. Other,2015,62,Ret2nd,77.4193548
+F,BIPOC,First gen,Not Pell,2. Other,2015,62,Ret3rd,70.96774190000001
+F,BIPOC,First gen,Not Pell,2. Other,2015,62,Ret4th,69.3548387
+F,BIPOC,First gen,Not Pell,2. Other,2016,58,Ret2nd,82.7586207
+F,BIPOC,First gen,Not Pell,2. Other,2016,58,Ret3rd,77.5862069
+F,BIPOC,First gen,Not Pell,2. Other,2016,58,Ret4th,74.54545449999999
+F,BIPOC,First gen,Not Pell,2. Other,2017,58,Ret2nd,75.862069
+F,BIPOC,First gen,Not Pell,2. Other,2017,58,Ret3rd,67.2413793
+F,BIPOC,First gen,Not Pell,2. Other,2017,58,Ret4th,68.4210526
+F,BIPOC,First gen,Not Pell,2. Other,2018,55,Ret2nd,85.4545455
+F,BIPOC,First gen,Not Pell,2. Other,2018,55,Ret3rd,74.54545449999999
+F,BIPOC,First gen,Not Pell,2. Other,2019,93,Ret2nd,80.6451613
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2014,10,Ret2nd,90.0
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2014,10,Ret3rd,90.0
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2014,10,Ret4th,90.0
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2015,7,Ret2nd,85.7142857
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2015,7,Ret3rd,85.7142857
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2015,7,Ret4th,83.3333333
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2016,1,Ret2nd,0.0
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2016,1,Ret3rd,100.0
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2016,1,Ret4th,100.0
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2017,7,Ret2nd,100.0
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2017,7,Ret3rd,100.0
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2017,7,Ret4th,85.7142857
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2018,2,Ret2nd,100.0
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2018,2,Ret3rd,100.0
+F,BIPOC,First gen,Pell,1. Rural/Small Rural,2019,12,Ret2nd,83.3333333
+F,BIPOC,First gen,Pell,2. Other,2014,105,Ret2nd,90.4761905
+F,BIPOC,First gen,Pell,2. Other,2014,105,Ret3rd,80.952381
+F,BIPOC,First gen,Pell,2. Other,2014,105,Ret4th,75.7281553
+F,BIPOC,First gen,Pell,2. Other,2015,121,Ret2nd,88.4297521
+F,BIPOC,First gen,Pell,2. Other,2015,121,Ret3rd,82.64462809999999
+F,BIPOC,First gen,Pell,2. Other,2015,121,Ret4th,78.33333329999999
+F,BIPOC,First gen,Pell,2. Other,2016,138,Ret2nd,86.9565217
+F,BIPOC,First gen,Pell,2. Other,2016,138,Ret3rd,78.9855072
+F,BIPOC,First gen,Pell,2. Other,2016,138,Ret4th,77.6119403
+F,BIPOC,First gen,Pell,2. Other,2017,123,Ret2nd,89.43089429999999
+F,BIPOC,First gen,Pell,2. Other,2017,123,Ret3rd,86.17886179999999
+F,BIPOC,First gen,Pell,2. Other,2017,123,Ret4th,84.16666670000001
+F,BIPOC,First gen,Pell,2. Other,2018,140,Ret2nd,87.1428571
+F,BIPOC,First gen,Pell,2. Other,2018,140,Ret3rd,82.8571429
+F,BIPOC,First gen,Pell,2. Other,2019,159,Ret2nd,90.5660377
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,6,Ret2nd,100.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,6,Ret3rd,100.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,6,Ret4th,100.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,4,Ret2nd,100.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,4,Ret3rd,100.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,4,Ret4th,100.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,4,Ret2nd,100.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,4,Ret3rd,75.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,4,Ret4th,75.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,11,Ret2nd,100.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,11,Ret3rd,90.9090909
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,11,Ret4th,100.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2018,7,Ret2nd,100.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2018,7,Ret3rd,100.0
+F,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2019,9,Ret2nd,100.0
+F,BIPOC,Not first gen,Not Pell,2. Other,2014,164,Ret2nd,90.2439024
+F,BIPOC,Not first gen,Not Pell,2. Other,2014,164,Ret3rd,85.3658537
+F,BIPOC,Not first gen,Not Pell,2. Other,2014,164,Ret4th,83.2298137
+F,BIPOC,Not first gen,Not Pell,2. Other,2015,193,Ret2nd,89.119171
+F,BIPOC,Not first gen,Not Pell,2. Other,2015,193,Ret3rd,85.492228
+F,BIPOC,Not first gen,Not Pell,2. Other,2015,193,Ret4th,83.0687831
+F,BIPOC,Not first gen,Not Pell,2. Other,2016,218,Ret2nd,93.5779817
+F,BIPOC,Not first gen,Not Pell,2. Other,2016,218,Ret3rd,89.90825690000001
+F,BIPOC,Not first gen,Not Pell,2. Other,2016,218,Ret4th,86.76470590000001
+F,BIPOC,Not first gen,Not Pell,2. Other,2017,251,Ret2nd,90.438247
+F,BIPOC,Not first gen,Not Pell,2. Other,2017,251,Ret3rd,86.4541833
+F,BIPOC,Not first gen,Not Pell,2. Other,2017,251,Ret4th,84.9372385
+F,BIPOC,Not first gen,Not Pell,2. Other,2018,225,Ret2nd,92.0
+F,BIPOC,Not first gen,Not Pell,2. Other,2018,225,Ret3rd,87.1111111
+F,BIPOC,Not first gen,Not Pell,2. Other,2019,290,Ret2nd,91.0344828
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,4,Ret2nd,100.0
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,4,Ret3rd,100.0
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,4,Ret4th,100.0
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,7,Ret2nd,71.4285714
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,7,Ret3rd,71.4285714
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,7,Ret4th,71.4285714
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,6,Ret2nd,83.3333333
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,6,Ret3rd,83.3333333
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,6,Ret4th,83.3333333
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,9,Ret2nd,88.8888889
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,9,Ret3rd,77.77777780000001
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,9,Ret4th,88.8888889
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2018,2,Ret2nd,50.0
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2018,2,Ret3rd,50.0
+F,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2019,3,Ret2nd,100.0
+F,BIPOC,Not first gen,Pell,2. Other,2014,84,Ret2nd,92.8571429
+F,BIPOC,Not first gen,Pell,2. Other,2014,84,Ret3rd,90.3614458
+F,BIPOC,Not first gen,Pell,2. Other,2014,84,Ret4th,90.3614458
+F,BIPOC,Not first gen,Pell,2. Other,2015,58,Ret2nd,86.20689660000001
+F,BIPOC,Not first gen,Pell,2. Other,2015,58,Ret3rd,78.9473684
+F,BIPOC,Not first gen,Pell,2. Other,2015,58,Ret4th,72.7272727
+F,BIPOC,Not first gen,Pell,2. Other,2016,81,Ret2nd,91.3580247
+F,BIPOC,Not first gen,Pell,2. Other,2016,81,Ret3rd,90.1234568
+F,BIPOC,Not first gen,Pell,2. Other,2016,81,Ret4th,87.5
+F,BIPOC,Not first gen,Pell,2. Other,2017,70,Ret2nd,97.1428571
+F,BIPOC,Not first gen,Pell,2. Other,2017,70,Ret3rd,87.1428571
+F,BIPOC,Not first gen,Pell,2. Other,2017,70,Ret4th,83.5820896
+F,BIPOC,Not first gen,Pell,2. Other,2018,67,Ret2nd,85.0746269
+F,BIPOC,Not first gen,Pell,2. Other,2018,67,Ret3rd,74.6268657
+F,BIPOC,Not first gen,Pell,2. Other,2019,82,Ret2nd,82.92682930000001
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,12,Ret2nd,91.6666667
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,12,Ret3rd,83.3333333
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,12,Ret4th,91.6666667
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,8,Ret2nd,75.0
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,8,Ret3rd,62.5
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,8,Ret4th,50.0
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,7,Ret2nd,85.7142857
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,7,Ret3rd,71.4285714
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,7,Ret4th,71.4285714
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,11,Ret2nd,100.0
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,11,Ret3rd,90.9090909
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,11,Ret4th,90.9090909
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2018,7,Ret2nd,71.4285714
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2018,7,Ret3rd,50.0
+F,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2019,8,Ret2nd,87.5
+F,Not BIPOC,First gen,Not Pell,2. Other,2014,66,Ret2nd,83.3333333
+F,Not BIPOC,First gen,Not Pell,2. Other,2014,66,Ret3rd,77.2727273
+F,Not BIPOC,First gen,Not Pell,2. Other,2014,66,Ret4th,76.5625
+F,Not BIPOC,First gen,Not Pell,2. Other,2015,72,Ret2nd,84.72222219999999
+F,Not BIPOC,First gen,Not Pell,2. Other,2015,72,Ret3rd,80.55555559999999
+F,Not BIPOC,First gen,Not Pell,2. Other,2015,72,Ret4th,78.2608696
+F,Not BIPOC,First gen,Not Pell,2. Other,2016,68,Ret2nd,86.76470590000001
+F,Not BIPOC,First gen,Not Pell,2. Other,2016,68,Ret3rd,80.59701489999999
+F,Not BIPOC,First gen,Not Pell,2. Other,2016,68,Ret4th,80.6451613
+F,Not BIPOC,First gen,Not Pell,2. Other,2017,64,Ret2nd,84.375
+F,Not BIPOC,First gen,Not Pell,2. Other,2017,64,Ret3rd,73.4375
+F,Not BIPOC,First gen,Not Pell,2. Other,2017,64,Ret4th,71.66666670000001
+F,Not BIPOC,First gen,Not Pell,2. Other,2018,56,Ret2nd,82.1428571
+F,Not BIPOC,First gen,Not Pell,2. Other,2018,56,Ret3rd,73.2142857
+F,Not BIPOC,First gen,Not Pell,2. Other,2019,63,Ret2nd,77.77777780000001
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2014,10,Ret2nd,80.0
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2014,10,Ret3rd,80.0
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2014,10,Ret4th,66.6666667
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2015,5,Ret2nd,80.0
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2015,5,Ret3rd,80.0
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2015,5,Ret4th,80.0
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2016,9,Ret2nd,66.6666667
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2016,9,Ret3rd,66.6666667
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2016,9,Ret4th,62.5
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2017,4,Ret2nd,75.0
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2017,4,Ret3rd,75.0
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2017,4,Ret4th,75.0
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2018,5,Ret2nd,100.0
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2018,5,Ret3rd,60.0
+F,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2019,6,Ret2nd,66.6666667
+F,Not BIPOC,First gen,Pell,2. Other,2014,43,Ret2nd,93.0232558
+F,Not BIPOC,First gen,Pell,2. Other,2014,43,Ret3rd,83.7209302
+F,Not BIPOC,First gen,Pell,2. Other,2014,43,Ret4th,79.0697674
+F,Not BIPOC,First gen,Pell,2. Other,2015,65,Ret2nd,89.2307692
+F,Not BIPOC,First gen,Pell,2. Other,2015,65,Ret3rd,80.0
+F,Not BIPOC,First gen,Pell,2. Other,2015,65,Ret4th,78.125
+F,Not BIPOC,First gen,Pell,2. Other,2016,44,Ret2nd,90.9090909
+F,Not BIPOC,First gen,Pell,2. Other,2016,44,Ret3rd,86.3636364
+F,Not BIPOC,First gen,Pell,2. Other,2016,44,Ret4th,79.0697674
+F,Not BIPOC,First gen,Pell,2. Other,2017,42,Ret2nd,90.4761905
+F,Not BIPOC,First gen,Pell,2. Other,2017,42,Ret3rd,85.7142857
+F,Not BIPOC,First gen,Pell,2. Other,2017,42,Ret4th,79.48717950000001
+F,Not BIPOC,First gen,Pell,2. Other,2018,44,Ret2nd,84.0909091
+F,Not BIPOC,First gen,Pell,2. Other,2018,44,Ret3rd,72.7272727
+F,Not BIPOC,First gen,Pell,2. Other,2019,47,Ret2nd,91.4893617
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,49,Ret2nd,89.79591839999999
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,49,Ret3rd,91.8367347
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,49,Ret4th,89.3617021
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,47,Ret2nd,87.2340426
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,47,Ret3rd,89.3617021
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,47,Ret4th,85.106383
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,42,Ret2nd,85.7142857
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,42,Ret3rd,80.952381
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,42,Ret4th,73.8095238
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,46,Ret2nd,82.6086957
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,46,Ret3rd,78.2608696
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,46,Ret4th,73.3333333
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2018,44,Ret2nd,95.4545455
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2018,44,Ret3rd,90.9090909
+F,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2019,51,Ret2nd,90.1960784
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2014,559,Ret2nd,92.8443649
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2014,559,Ret3rd,89.24731179999999
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2014,559,Ret4th,87.3161765
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2015,683,Ret2nd,91.0688141
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2015,683,Ret3rd,87.5549048
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2015,683,Ret4th,87.1212121
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2016,602,Ret2nd,91.6943522
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2016,602,Ret3rd,88.37209299999999
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2016,602,Ret4th,86.6551127
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2017,626,Ret2nd,91.8530351
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2017,626,Ret3rd,87.85942490000001
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2017,626,Ret4th,85.5241265
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2018,666,Ret2nd,92.3423423
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2018,666,Ret3rd,84.9170437
+F,Not BIPOC,Not first gen,Not Pell,2. Other,2019,710,Ret2nd,91.1267606
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,19,Ret2nd,89.47368420000001
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,19,Ret3rd,73.6842105
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,19,Ret4th,73.6842105
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,16,Ret2nd,93.75
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,16,Ret3rd,81.25
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,16,Ret4th,68.75
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,17,Ret2nd,100.0
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,17,Ret3rd,94.1176471
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,17,Ret4th,81.25
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,20,Ret2nd,95.0
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,20,Ret3rd,90.0
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,20,Ret4th,89.47368420000001
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2018,11,Ret2nd,90.9090909
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2018,11,Ret3rd,81.8181818
+F,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2019,17,Ret2nd,100.0
+F,Not BIPOC,Not first gen,Pell,2. Other,2014,109,Ret2nd,88.9908257
+F,Not BIPOC,Not first gen,Pell,2. Other,2014,109,Ret3rd,86.2385321
+F,Not BIPOC,Not first gen,Pell,2. Other,2014,109,Ret4th,83.9622642
+F,Not BIPOC,Not first gen,Pell,2. Other,2015,122,Ret2nd,90.1639344
+F,Not BIPOC,Not first gen,Pell,2. Other,2015,122,Ret3rd,85.2459016
+F,Not BIPOC,Not first gen,Pell,2. Other,2015,122,Ret4th,80.0
+F,Not BIPOC,Not first gen,Pell,2. Other,2016,106,Ret2nd,90.5660377
+F,Not BIPOC,Not first gen,Pell,2. Other,2016,106,Ret3rd,87.7358491
+F,Not BIPOC,Not first gen,Pell,2. Other,2016,106,Ret4th,84.46601940000001
+F,Not BIPOC,Not first gen,Pell,2. Other,2017,119,Ret2nd,90.7563025
+F,Not BIPOC,Not first gen,Pell,2. Other,2017,119,Ret3rd,86.55462179999999
+F,Not BIPOC,Not first gen,Pell,2. Other,2017,119,Ret4th,82.6086957
+F,Not BIPOC,Not first gen,Pell,2. Other,2018,86,Ret2nd,88.37209299999999
+F,Not BIPOC,Not first gen,Pell,2. Other,2018,86,Ret3rd,82.55813950000001
+F,Not BIPOC,Not first gen,Pell,2. Other,2019,82,Ret2nd,79.2682927
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,1,Ret2nd,0.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,1,Ret3rd,0.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,1,Ret4th,0.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,3,Ret2nd,100.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,3,Ret3rd,100.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,3,Ret4th,66.6666667
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,5,Ret2nd,60.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,5,Ret3rd,60.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,5,Ret4th,60.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,3,Ret2nd,100.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,3,Ret3rd,100.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,3,Ret4th,100.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2018,4,Ret2nd,100.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2018,4,Ret3rd,75.0
+M,BIPOC,First gen,Not Pell,1. Rural/Small Rural,2019,7,Ret2nd,85.7142857
+M,BIPOC,First gen,Not Pell,2. Other,2014,50,Ret2nd,82.0
+M,BIPOC,First gen,Not Pell,2. Other,2014,50,Ret3rd,78.0
+M,BIPOC,First gen,Not Pell,2. Other,2014,50,Ret4th,72.0
+M,BIPOC,First gen,Not Pell,2. Other,2015,70,Ret2nd,81.42857140000001
+M,BIPOC,First gen,Not Pell,2. Other,2015,70,Ret3rd,70.0
+M,BIPOC,First gen,Not Pell,2. Other,2015,70,Ret4th,66.6666667
+M,BIPOC,First gen,Not Pell,2. Other,2016,73,Ret2nd,83.5616438
+M,BIPOC,First gen,Not Pell,2. Other,2016,73,Ret3rd,68.05555559999999
+M,BIPOC,First gen,Not Pell,2. Other,2016,73,Ret4th,63.3802817
+M,BIPOC,First gen,Not Pell,2. Other,2017,71,Ret2nd,78.87323939999999
+M,BIPOC,First gen,Not Pell,2. Other,2017,71,Ret3rd,71.8309859
+M,BIPOC,First gen,Not Pell,2. Other,2017,71,Ret4th,71.0144928
+M,BIPOC,First gen,Not Pell,2. Other,2018,69,Ret2nd,82.6086957
+M,BIPOC,First gen,Not Pell,2. Other,2018,69,Ret3rd,72.46376810000001
+M,BIPOC,First gen,Not Pell,2. Other,2019,94,Ret2nd,77.65957449999999
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2014,6,Ret2nd,83.3333333
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2014,6,Ret3rd,100.0
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2014,6,Ret4th,100.0
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2015,7,Ret2nd,57.1428571
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2015,7,Ret3rd,57.1428571
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2015,7,Ret4th,57.1428571
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2016,3,Ret2nd,100.0
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2016,3,Ret3rd,33.3333333
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2016,3,Ret4th,33.3333333
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2017,11,Ret2nd,81.8181818
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2017,11,Ret3rd,81.8181818
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2017,11,Ret4th,81.8181818
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2018,2,Ret2nd,100.0
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2018,2,Ret3rd,100.0
+M,BIPOC,First gen,Pell,1. Rural/Small Rural,2019,14,Ret2nd,85.7142857
+M,BIPOC,First gen,Pell,2. Other,2014,112,Ret2nd,91.0714286
+M,BIPOC,First gen,Pell,2. Other,2014,112,Ret3rd,81.25
+M,BIPOC,First gen,Pell,2. Other,2014,112,Ret4th,78.5714286
+M,BIPOC,First gen,Pell,2. Other,2015,107,Ret2nd,85.9813084
+M,BIPOC,First gen,Pell,2. Other,2015,107,Ret3rd,76.635514
+M,BIPOC,First gen,Pell,2. Other,2015,107,Ret4th,71.69811320000001
+M,BIPOC,First gen,Pell,2. Other,2016,133,Ret2nd,87.2180451
+M,BIPOC,First gen,Pell,2. Other,2016,133,Ret3rd,79.69924809999999
+M,BIPOC,First gen,Pell,2. Other,2016,133,Ret4th,75.0
+M,BIPOC,First gen,Pell,2. Other,2017,127,Ret2nd,87.4015748
+M,BIPOC,First gen,Pell,2. Other,2017,127,Ret3rd,80.31496059999999
+M,BIPOC,First gen,Pell,2. Other,2017,127,Ret4th,74.015748
+M,BIPOC,First gen,Pell,2. Other,2018,121,Ret2nd,88.4297521
+M,BIPOC,First gen,Pell,2. Other,2018,121,Ret3rd,82.64462809999999
+M,BIPOC,First gen,Pell,2. Other,2019,129,Ret2nd,86.0465116
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,5,Ret2nd,80.0
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,5,Ret3rd,60.0
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,5,Ret4th,40.0
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,6,Ret2nd,100.0
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,6,Ret3rd,100.0
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,6,Ret4th,83.3333333
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,7,Ret2nd,100.0
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,7,Ret3rd,71.4285714
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,7,Ret4th,71.4285714
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,15,Ret2nd,86.6666667
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,15,Ret3rd,86.6666667
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,15,Ret4th,80.0
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2018,3,Ret2nd,100.0
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2018,3,Ret3rd,100.0
+M,BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2019,12,Ret2nd,91.6666667
+M,BIPOC,Not first gen,Not Pell,2. Other,2014,192,Ret2nd,83.3333333
+M,BIPOC,Not first gen,Not Pell,2. Other,2014,192,Ret3rd,76.5625
+M,BIPOC,Not first gen,Not Pell,2. Other,2014,192,Ret4th,75.5208333
+M,BIPOC,Not first gen,Not Pell,2. Other,2015,193,Ret2nd,89.119171
+M,BIPOC,Not first gen,Not Pell,2. Other,2015,193,Ret3rd,87.5647668
+M,BIPOC,Not first gen,Not Pell,2. Other,2015,193,Ret4th,82.1989529
+M,BIPOC,Not first gen,Not Pell,2. Other,2016,212,Ret2nd,90.0943396
+M,BIPOC,Not first gen,Not Pell,2. Other,2016,212,Ret3rd,83.0188679
+M,BIPOC,Not first gen,Not Pell,2. Other,2016,212,Ret4th,81.6425121
+M,BIPOC,Not first gen,Not Pell,2. Other,2017,236,Ret2nd,88.559322
+M,BIPOC,Not first gen,Not Pell,2. Other,2017,236,Ret3rd,86.7521368
+M,BIPOC,Not first gen,Not Pell,2. Other,2017,236,Ret4th,81.25
+M,BIPOC,Not first gen,Not Pell,2. Other,2018,275,Ret2nd,90.9090909
+M,BIPOC,Not first gen,Not Pell,2. Other,2018,275,Ret3rd,84.0
+M,BIPOC,Not first gen,Not Pell,2. Other,2019,285,Ret2nd,90.5263158
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,5,Ret2nd,100.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,5,Ret3rd,60.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,5,Ret4th,60.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,4,Ret2nd,100.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,4,Ret3rd,100.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,4,Ret4th,100.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,1,Ret2nd,100.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,1,Ret3rd,100.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,1,Ret4th,100.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,2,Ret2nd,100.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,2,Ret3rd,100.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,2,Ret4th,100.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2018,4,Ret2nd,75.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2018,4,Ret3rd,75.0
+M,BIPOC,Not first gen,Pell,1. Rural/Small Rural,2019,4,Ret2nd,100.0
+M,BIPOC,Not first gen,Pell,2. Other,2014,84,Ret2nd,84.5238095
+M,BIPOC,Not first gen,Pell,2. Other,2014,84,Ret3rd,78.5714286
+M,BIPOC,Not first gen,Pell,2. Other,2014,84,Ret4th,79.5180723
+M,BIPOC,Not first gen,Pell,2. Other,2015,72,Ret2nd,90.27777780000001
+M,BIPOC,Not first gen,Pell,2. Other,2015,72,Ret3rd,83.3333333
+M,BIPOC,Not first gen,Pell,2. Other,2015,72,Ret4th,77.77777780000001
+M,BIPOC,Not first gen,Pell,2. Other,2016,88,Ret2nd,87.5
+M,BIPOC,Not first gen,Pell,2. Other,2016,88,Ret3rd,80.4597701
+M,BIPOC,Not first gen,Pell,2. Other,2016,88,Ret4th,79.76190480000001
+M,BIPOC,Not first gen,Pell,2. Other,2017,56,Ret2nd,87.5
+M,BIPOC,Not first gen,Pell,2. Other,2017,56,Ret3rd,85.7142857
+M,BIPOC,Not first gen,Pell,2. Other,2017,56,Ret4th,80.0
+M,BIPOC,Not first gen,Pell,2. Other,2018,57,Ret2nd,89.47368420000001
+M,BIPOC,Not first gen,Pell,2. Other,2018,57,Ret3rd,80.7017544
+M,BIPOC,Not first gen,Pell,2. Other,2019,64,Ret2nd,89.0625
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,8,Ret2nd,50.0
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,8,Ret3rd,75.0
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2014,8,Ret4th,75.0
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,5,Ret2nd,100.0
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,5,Ret3rd,60.0
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2015,5,Ret4th,50.0
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,7,Ret2nd,71.4285714
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,7,Ret3rd,57.1428571
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2016,7,Ret4th,57.1428571
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,11,Ret2nd,54.5454545
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,11,Ret3rd,63.6363636
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2017,11,Ret4th,63.6363636
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2018,5,Ret2nd,60.0
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2018,5,Ret3rd,60.0
+M,Not BIPOC,First gen,Not Pell,1. Rural/Small Rural,2019,6,Ret2nd,83.3333333
+M,Not BIPOC,First gen,Not Pell,2. Other,2014,71,Ret2nd,76.056338
+M,Not BIPOC,First gen,Not Pell,2. Other,2014,71,Ret3rd,71.8309859
+M,Not BIPOC,First gen,Not Pell,2. Other,2014,71,Ret4th,69.5652174
+M,Not BIPOC,First gen,Not Pell,2. Other,2015,70,Ret2nd,71.4285714
+M,Not BIPOC,First gen,Not Pell,2. Other,2015,70,Ret3rd,61.428571399999996
+M,Not BIPOC,First gen,Not Pell,2. Other,2015,70,Ret4th,61.7647059
+M,Not BIPOC,First gen,Not Pell,2. Other,2016,52,Ret2nd,78.8461538
+M,Not BIPOC,First gen,Not Pell,2. Other,2016,52,Ret3rd,71.1538462
+M,Not BIPOC,First gen,Not Pell,2. Other,2016,52,Ret4th,59.1836735
+M,Not BIPOC,First gen,Not Pell,2. Other,2017,57,Ret2nd,77.1929825
+M,Not BIPOC,First gen,Not Pell,2. Other,2017,57,Ret3rd,75.4385965
+M,Not BIPOC,First gen,Not Pell,2. Other,2017,57,Ret4th,69.0909091
+M,Not BIPOC,First gen,Not Pell,2. Other,2018,38,Ret2nd,71.0526316
+M,Not BIPOC,First gen,Not Pell,2. Other,2018,38,Ret3rd,57.894736800000004
+M,Not BIPOC,First gen,Not Pell,2. Other,2019,56,Ret2nd,83.9285714
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2014,9,Ret2nd,100.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2014,9,Ret3rd,75.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2014,9,Ret4th,75.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2015,8,Ret2nd,87.5
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2015,8,Ret3rd,87.5
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2015,8,Ret4th,75.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2016,4,Ret2nd,100.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2016,4,Ret3rd,75.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2016,4,Ret4th,50.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2017,5,Ret2nd,80.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2017,5,Ret3rd,80.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2017,5,Ret4th,80.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2018,5,Ret2nd,80.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2018,5,Ret3rd,40.0
+M,Not BIPOC,First gen,Pell,1. Rural/Small Rural,2019,6,Ret2nd,66.6666667
+M,Not BIPOC,First gen,Pell,2. Other,2014,37,Ret2nd,86.4864865
+M,Not BIPOC,First gen,Pell,2. Other,2014,37,Ret3rd,70.2702703
+M,Not BIPOC,First gen,Pell,2. Other,2014,37,Ret4th,59.4594595
+M,Not BIPOC,First gen,Pell,2. Other,2015,41,Ret2nd,90.2439024
+M,Not BIPOC,First gen,Pell,2. Other,2015,41,Ret3rd,80.4878049
+M,Not BIPOC,First gen,Pell,2. Other,2015,41,Ret4th,73.6842105
+M,Not BIPOC,First gen,Pell,2. Other,2016,28,Ret2nd,78.5714286
+M,Not BIPOC,First gen,Pell,2. Other,2016,28,Ret3rd,64.2857143
+M,Not BIPOC,First gen,Pell,2. Other,2016,28,Ret4th,62.962963
+M,Not BIPOC,First gen,Pell,2. Other,2017,34,Ret2nd,82.35294119999999
+M,Not BIPOC,First gen,Pell,2. Other,2017,34,Ret3rd,61.7647059
+M,Not BIPOC,First gen,Pell,2. Other,2017,34,Ret4th,52.9411765
+M,Not BIPOC,First gen,Pell,2. Other,2018,34,Ret2nd,79.41176469999999
+M,Not BIPOC,First gen,Pell,2. Other,2018,34,Ret3rd,64.70588240000001
+M,Not BIPOC,First gen,Pell,2. Other,2019,37,Ret2nd,78.3783784
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,52,Ret2nd,92.3076923
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,52,Ret3rd,80.7692308
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2014,52,Ret4th,76.9230769
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,43,Ret2nd,86.0465116
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,43,Ret3rd,86.0465116
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2015,43,Ret4th,86.0465116
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,54,Ret2nd,90.7407407
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,54,Ret3rd,87.037037
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2016,54,Ret4th,83.3333333
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,47,Ret2nd,82.97872339999999
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,47,Ret3rd,78.7234043
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2017,47,Ret4th,73.9130435
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2018,61,Ret2nd,91.8032787
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2018,61,Ret3rd,85.2459016
+M,Not BIPOC,Not first gen,Not Pell,1. Rural/Small Rural,2019,70,Ret2nd,90.0
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2014,691,Ret2nd,90.0144718
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2014,691,Ret3rd,84.9493488
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2014,691,Ret4th,84.0409956
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2015,714,Ret2nd,89.63585429999999
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2015,714,Ret3rd,83.4733894
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2015,714,Ret4th,82.0113314
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2016,818,Ret2nd,90.9535452
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2016,818,Ret3rd,85.207824
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2016,818,Ret4th,82.6517968
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2017,765,Ret2nd,92.15686269999999
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2017,765,Ret3rd,86.2385321
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2017,765,Ret4th,82.6203209
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2018,773,Ret2nd,90.5562743
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2018,773,Ret3rd,84.7150259
+M,Not BIPOC,Not first gen,Not Pell,2. Other,2019,802,Ret2nd,86.4089776
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,20,Ret2nd,95.0
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,20,Ret3rd,75.0
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2014,20,Ret4th,73.6842105
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,25,Ret2nd,80.0
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,25,Ret3rd,68.0
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2015,25,Ret4th,68.0
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,14,Ret2nd,85.7142857
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,14,Ret3rd,71.4285714
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2016,14,Ret4th,71.4285714
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,11,Ret2nd,72.7272727
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,11,Ret3rd,63.6363636
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2017,11,Ret4th,60.0
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2018,12,Ret2nd,83.3333333
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2018,12,Ret3rd,83.3333333
+M,Not BIPOC,Not first gen,Pell,1. Rural/Small Rural,2019,12,Ret2nd,83.3333333
+M,Not BIPOC,Not first gen,Pell,2. Other,2014,115,Ret2nd,86.0869565
+M,Not BIPOC,Not first gen,Pell,2. Other,2014,115,Ret3rd,84.3478261
+M,Not BIPOC,Not first gen,Pell,2. Other,2014,115,Ret4th,84.3478261
+M,Not BIPOC,Not first gen,Pell,2. Other,2015,125,Ret2nd,91.2
+M,Not BIPOC,Not first gen,Pell,2. Other,2015,125,Ret3rd,87.2
+M,Not BIPOC,Not first gen,Pell,2. Other,2015,125,Ret4th,84.67741939999999
+M,Not BIPOC,Not first gen,Pell,2. Other,2016,107,Ret2nd,88.78504670000001
+M,Not BIPOC,Not first gen,Pell,2. Other,2016,107,Ret3rd,81.3084112
+M,Not BIPOC,Not first gen,Pell,2. Other,2016,107,Ret4th,83.0
+M,Not BIPOC,Not first gen,Pell,2. Other,2017,100,Ret2nd,92.0
+M,Not BIPOC,Not first gen,Pell,2. Other,2017,100,Ret3rd,86.0
+M,Not BIPOC,Not first gen,Pell,2. Other,2017,100,Ret4th,82.8282828
+M,Not BIPOC,Not first gen,Pell,2. Other,2018,112,Ret2nd,95.5357143
+M,Not BIPOC,Not first gen,Pell,2. Other,2018,112,Ret3rd,88.3928571
+M,Not BIPOC,Not first gen,Pell,2. Other,2019,94,Ret2nd,86.1702128
